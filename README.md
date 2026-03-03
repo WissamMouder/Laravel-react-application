@@ -39,7 +39,7 @@ This project is a web chat application built using:
 
 Make sure you have:
 
-* PHP ≥ 8.0
+* PHP ≥ 10.0
 * Composer installed
 
 Check versions:
