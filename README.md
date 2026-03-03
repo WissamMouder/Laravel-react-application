@@ -16,10 +16,10 @@ Simple and clean interface
 
 
 login  and signup and chat demo
+
 https://github.com/user-attachments/assets/23bcd805-9db9-41c2-9d1d-0ede359e1b6f
 
 
-https://github.com/user-attachments/assets/8421b61e-6631-41c4-9f65-6f140e9c545b
 
 https://github.com/user-attachments/assets/8421b61e-6631-41c4-9f65-6f140e9c545b
 
