@@ -20,7 +20,128 @@ https://github.com/user-attachments/assets/23bcd805-9db9-41c2-9d1d-0ede359e1b6f
 
 
 
+
 https://github.com/user-attachments/assets/fdb94b46-0994-4b73-bb00-cbbaed76dbef
+
+## Chat Application (Laravel + React)
+
+This project is a web chat application built using:
+
+* Backend → Laravel API server
+* Frontend → React application
+
+---
+
+##  Backend Setup (Laravel)
+
+### 1. Install PHP and Composer
+
+Make sure you have:
+
+* PHP ≥ 8.0
+* Composer installed
+
+Check versions:
+
+```bash
+php -v
+composer -v
+```
+
+---
+
+### 2. Go to Backend Folder
+
+```bash
+cd backend
+```
+
+---
+
+### 3. Install Laravel Dependencies
+
+```bash
+composer install
+```
+
+---
+
+### 4. Configure Environment File
+
+Rename:
+
+```
+.env.example → .env
+```
+
+Then configure database settings.
+
+---
+
+### 5. Generate Application Key
+
+```bash
+php artisan key:generate
+```
+
+---
+
+### 6. Run Migrations
+
+```bash
+php artisan migrate
+```
+
+---
+
+### 7. Start Laravel Server
+
+```bash
+php artisan serve
+```
+
+Backend server usually runs at:
+
+```
+http://127.0.0.1:8000
+```
+
+---
+
+##  Frontend Setup (React)
+
+### 1. Go to Frontend Folder
+
+```bash
+cd frontend
+```
+
+---
+
+### 2. Install Node Dependencies
+
+```bash
+npm install
+```
+
+---
+
+### 3. Start React Application
+
+```bash
+npm start
+```
+
+Or if using Vite:
+
+```bash
+npm run dev
+```
+
+---
+
+
+
 
 
 https://github.com/user-attachments/assets/8421b61e-6631-41c4-9f65-6f140e9c545b
